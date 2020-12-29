@@ -1,0 +1,26 @@
+﻿  MyEigenFace_test.cpp
+D:\File_WZQ\Code_VS\CV_hw3\myEigenFace\MyEigenFace\MyEigenFace_test\MyEigenFace_test.cpp(71,59): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+D:\File_WZQ\Code_VS\CV_hw3\myEigenFace\MyEigenFace\MyEigenFace_test\MyEigenFace_test.cpp(71,41): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+D:\File_WZQ\Code_VS\CV_hw3\myEigenFace\MyEigenFace\MyEigenFace_test\MyEigenFace_test.cpp(74,30): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+D:\File_WZQ\Code_VS\CV_hw3\myEigenFace\MyEigenFace\MyEigenFace_test\MyEigenFace_test.cpp(80,30): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+D:\File_WZQ\Code_VS\CV_hw3\myEigenFace\MyEigenFace\MyEigenFace_test\MyEigenFace_test.cpp(425,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\File_WZQ\Code_VS\CV_hw3\myEigenFace\MyEigenFace\MyEigenFace_test\MyEigenFace_test.cpp(446,24): warning C4018: “<”: 有符号/无符号不匹配
+  Test.cpp
+  正在生成代码...
+  MyEigenFace_test.vcxproj -> D:\File_WZQ\Code_VS\CV_hw3\myEigenFace\MyEigenFace\Debug\MyEigenFace_test.exe
